@@ -1,6 +1,6 @@
 # install
 
-    git clone https://github.com/bluelemons/enano.git .rake
+    git clone https://github.com/bluelemons/enano.git ~/.rake
 
 # Usage
 
