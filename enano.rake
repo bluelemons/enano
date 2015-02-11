@@ -28,7 +28,6 @@ namespace :enano do
            'cutest',
            'pry']
     dep.each { |gem| sh "dep add #{ gem }" }
-    end
     sh 'dep install'
   end
 end
